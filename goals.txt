@@ -1,0 +1,6 @@
+Nguher's Programming Goals
+1. Work on my first data analysis project
+2. Contribute to open source projects on GitHub
+3. Learn SQL and become proficient 
+4. Master data analysis using Python
+5. Land my first data analyst role remotely
